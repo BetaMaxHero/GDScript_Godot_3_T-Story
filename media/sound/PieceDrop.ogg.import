@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PieceDrop.ogg-01b3adef51f90fe36911785c97fe6fc9.oggstr"
+
+[deps]
+
+source_file="res://media/sound/PieceDrop.ogg"
+dest_files=[ "res://.import/PieceDrop.ogg-01b3adef51f90fe36911785c97fe6fc9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
